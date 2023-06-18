@@ -1,0 +1,464 @@
+#aaa{
+    background-image: url(https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    opacity: 0.8px;
+}
+#About{
+    background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+#ee{
+    display: flex;
+    margin-left: 50px;
+}
+.m{
+    color: aliceblue;
+}
+.n{
+    padding-right: 200px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: rgba(0, 0, 0, 0.458);
+    padding: 15px;
+    color: orange;
+    
+}
+
+.gh1{
+    margin-left: 60px;
+
+}
+.gh2{
+    color: black;
+    border: 3px solid orange;
+    border-radius: 50%;
+    margin-left: 100px;
+    padding: 1px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+
+}
+#aa{
+    margin-left: 60px;
+}
+.a{
+    font-size: 400%;
+    margin-left: 150px;
+    color: rgb(255, 255, 255);
+}
+.b{
+    color: goldenrod;
+}
+.c{
+    font-size: 25px;
+}
+.d{
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 50px;
+    border: 2px solid orange;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 1px;
+}
+.e{
+    margin-left: 120px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid orange;
+    padding: 1px;
+}
+#cc{
+    display: flex;
+    margin-left: 80px;
+}
+#Menu{
+    background-color: black;
+}
+.f{
+    height: 200px;
+    width: 300px;
+    background-color: grey;
+    color: aliceblue;
+    margin-left: 80px;
+    text-align: center;
+}
+.g{
+    height: 200px;
+    width: 300px;
+    background-color: grey;
+    color: aliceblue;
+    margin-left: 80px;
+    text-align: center;
+}
+.h{
+    height: 200px;
+    width: 300px;
+    background-color: grey;
+    color: aliceblue;
+    margin-left: 80px;
+    text-align: center;
+}
+p{
+    padding-top: 100px;
+}
+.w{
+    color: burlywood;
+    font-size: xx-large;
+    margin-left: 90px;
+}
+.a2{
+    display: flex;
+    color: aliceblue;
+}
+.t{
+    border: 1px;
+    border-radius: 50%;
+}
+.zz{
+    display: flex;
+}
+#Specials{
+    background-color: black;
+}
+.a1{
+    margin-left: 200px;
+}
+.b1{
+    margin-left: 200px;
+}
+.yy{
+    color: aliceblue;
+    align-items: center;
+}
+.w{
+    color: palevioletred;
+    font-size: xx-large;
+}
+.v{
+    color: aliceblue;
+    margin-left: 100px;
+}
+.imge{
+    border: 1px;
+    border-radius: 50px;
+}
+.f:hover{
+     background-color: khaki;
+     transform: scale(1.1);
+}
+.g:hover{
+    background-color: khaki;
+    transform: scale(1.1);
+}
+.h:hover{
+    background-color: khaki;
+    transform: scale(1.1);
+}
+.ttt:hover{
+    transform: scale(1.1);
+}
+#z1{
+    background-color: black;
+}
+.z11{
+    color: white;
+    padding-top: 40px;
+    margin-left: 60px;
+}
+.z22{
+    color: goldenrod;
+    font-size: 50px;
+    margin-left: 60px;
+}
+#z2{
+    display: flex;
+    margin-left: 100px;
+}
+.z33{
+    color: white;
+    font-size: xx-large;
+}
+.Arch{
+    font-size: 30px;
+}
+.z44{
+    color: white;
+    font-size: 20px;
+    padding-left: 60px;
+}
+.idly{
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+#EE{
+    background-image: url(https://img.restaurantguru.com/rbc9-Restaurant-Ly-Hai-Inc-interior.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: 20px;
+}
+.e1{
+    color: white;
+    padding-top: 40px;
+    margin-left: 60px;
+}
+.e2{
+    color: goldenrod;
+    font-size: 40px;
+    margin-left: 60px;
+}
+.lll{
+    display: flex;
+    padding-bottom: 30px;
+}
+#pic{
+    margin-left: 90px;
+}
+#cnt{
+    margin-left: 40px;
+    padding-left: 90px;
+    padding-top: 20px;
+    color: white;
+}
+.eve{
+    color: goldenrod;
+}
+#x11{
+    background-color: black;
+}
+.x1{
+    margin-left: 80px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.x2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.x3{
+    color: goldenrod;
+    font-size: 40px;
+}
+#x22{
+    display: flex;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.x4{
+    padding-left: 40px;
+}
+input{
+    height: 50px;
+    width: 400px;
+    background: #0c0b09;
+    border-color: #625b4b;
+}
+.x5{
+    height: 130px;
+    width: 1280px;
+    margin-left: 50px;
+}
+.x6{
+    background-color: goldenrod;
+    border-color: black;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 200px;
+    height: 50px;
+}
+#q11{
+    background-color: black;
+}
+.q1{
+    margin-left: 80px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.q2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.q3{
+    color: goldenrod;
+    font-size: 40px;
+}
+#q22{
+    display: flex;
+    margin-left: 90px;
+    padding-left: 30px;
+}
+.q4{
+    height: 220px;
+    width: 380px;
+    color: white;
+    background-color: #625b4b;
+    padding-left: 40px;
+    margin-left: 40px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.person{
+    border-radius: 50%;
+}
+#ry{
+    background-color: black;
+}
+.ry1{
+    margin-left: 80px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.ry2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.ry3{
+    color: goldenrod;
+    font-size: 40px;
+}
+#ry4{
+    margin-left: 40px;
+}
+.ry5:hover{
+    transform: scale(1.1);
+}
+#ci{
+    background-color: black;
+}
+.ci1{
+    margin-left: 80px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.ci2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.ci3{
+    color: goldenrod;
+    font-size: 40px;
+}
+.ci4{
+    margin-left: 70px;
+    display: flex;
+}
+.ci5{
+    padding-left: 40px;
+    position: relative;
+    z-index: 3;
+}
+.ci6{
+    position: relative;
+    bottom:80px;
+    z-index: 2;
+    color: black;
+    left: 180px;
+}
+.ci5:hover{
+    z-index: 1;
+}
+#sk{
+    background-color: black;
+}
+.sk1{
+    margin-left: 80px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.sk2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.sk3{
+    color: goldenrod;
+    font-size: 40px;
+}
+.map{
+    margin-left: 30px;
+}
+#map11{
+    margin-left: 50px;
+}
+#map1{
+    display: flex;
+}
+.map2{
+    padding-left: 10px;
+}
+.logo{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#map111{
+    display: flex;
+}
+#map22{
+    margin-left: 50px;
+}
+.ma1{
+    display: flex;
+    padding-left: 80px;
+}
+.ma2{
+    margin-left: 40px;
+    height: 50px;
+    width: 800px;
+}
+.ma3{
+    margin-left: 40px;
+    height: 120px;
+    width: 800px;
+}
+.ma4{
+    background-color: goldenrod;
+    border-color: black;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 200px;
+    height: 50px;
+}
+#co{
+    background-color: black;
+    margin-top: 40px;
+    display: flex;
+    padding-left: 40px;
+}
+.co2{
+    margin-top: 30px;
+    color: wheat;
+}
+.add{
+    color: wheat;
+}
+.subs{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.co1{
+    padding-left: 40px;
+}
+.co3{
+    padding-left: 180px;
+    padding-top: 145px;
+}
